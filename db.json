@@ -1,0 +1,152 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imgSrc": "assets/Images/camera1.jpg",
+      "category": "Cameras",
+      "name": "Canon 250D",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "13500"
+    },
+    {
+      "id": 2,
+      "imgSrc": "assets/Images/camera2.jpg",
+      "category": "Cameras",
+      "name": "Canon 200D",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "15000"
+    },
+    {
+      "id": 3,
+      "imgSrc": "assets/Images/camera3.jpg",
+      "category": "Cameras",
+      "name": "Canon 2000D",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "7500"
+    },
+    {
+      "id": 4,
+      "imgSrc": "assets/Images/camera4.jpg",
+      "category": "Cameras",
+      "name": "Camera Lense",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "12000"
+    },
+    {
+      "id": 5,
+      "imgSrc": "assets/Images/mobile1.jpg",
+      "category": "Phones",
+      "name": "Iphone 7 Plus",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "6500"
+    },
+    {
+      "id": 6,
+      "imgSrc": "assets/Images/mobile2.jpg",
+      "category": "Phones",
+      "name": "Samsung Galaxy10",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "8000"
+    },
+    {
+      "id": 7,
+      "imgSrc": "assets/Images/mobile3.jpg",
+      "category": "Phones",
+      "name": "Oppo Reno2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "6000"
+    },
+    {
+      "id": 8,
+      "imgSrc": "assets/Images/mobile4.jpg",
+      "category": "Phones",
+      "name": "MI 11",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "11000"
+    },
+    {
+      "id": 9,
+      "imgSrc": "assets/Images/laptop1.jpg",
+      "category": "Laptops",
+      "name": "HP Pavilion",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "13500"
+    },
+    {
+      "id": 10,
+      "imgSrc": "assets/Images/laptop2.jpg",
+      "category": "Laptops",
+      "name": "Lenovo Legon",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "15000"
+    },
+    {
+      "id": 11,
+      "imgSrc": "assets/Images/laptop3.jpg",
+      "category": "Laptops",
+      "name": "Mak Book Air",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "30000"
+    },
+    {
+      "id": 12,
+      "imgSrc": "assets/Images/laptop4.jpg",
+      "category": "Laptops",
+      "name": "Mak Book Bro",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "40000"
+    },
+    {
+      "id": 13,
+      "imgSrc": "assets/Images/makeUp1.jpg",
+      "category": "Make Up",
+      "name": "Moist lips",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "90"
+    },
+    {
+      "id": 14,
+      "imgSrc": "assets/Images/makeUp2.jpg",
+      "category": "Make Up",
+      "name": "Lipstick",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "150"
+    },
+    {
+      "id": 15,
+      "imgSrc": "assets/Images/makeUp3.jpg",
+      "category": "Make Up",
+      "name": "special collection",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "750"
+    },
+    {
+      "id": 16,
+      "imgSrc": "assets/Images/makeUp4.jpg",
+      "category": "Make Up",
+      "name": "Mskara",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non est sed tortor convallis suscipit ut quis nibh. Curabitur nec sapien lobortis, blandit lorem vel, tempus est. Pellentesque ut tellus ultrices, efficitur dolor at, tempus felis. Nam maximus orci vitae mattis vulputate. Suspendisse id quam massa. Donec semper vulputate quam, nec ornare mauris luctus a. Aliquam erat volutpat. Pellentesque interdum turpis velit, sed lobortis neque volutpat sit amet. Cras quis rutrum enim. Cras tristique neque id dignissim iaculis. Praesent non sapien in turpis dictum ultricies a quis turpis. Ut at metus eros. Suspendisse sed nisl ut lacus feugiat vehicula.",
+      "price": "120"
+    }
+  ],
+  "Invoices": [],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Phones"
+    },
+    {
+      "id": 2,
+      "name": "Laptops"
+    },
+    {
+      "id": 3,
+      "name": "Cameras"
+    },
+    {
+      "id": 4,
+      "name": "Make Up"
+    }
+  ],
+  "users": []
+}

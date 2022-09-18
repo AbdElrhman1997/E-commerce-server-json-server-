@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "name": "Iphone",
+      "price": 15000
+    },
+    {
+      "id": 3,
+      "name": "TV",
+      "price": 7000
+    },
+    {
+      "id": 4,
+      "name": "new",
+      "price": 12000
+    },
+    {
+      "id": 5,
+      "name": "new",
+      "price": 12000
+    },
+    {
+      "id": 6,
+      "name": "new",
+      "price": 12000
+    },
+    {
+      "id": 7,
+      "name": "new",
+      "price": 12000
+    },
+    {
+      "id": 8,
+      "name": "new",
+      "price": 12000
+    },
+    {
+      "id": 9,
+      "name": "new",
+      "price": 12000
+    },
+    {
+      "id": 10,
+      "name": "new",
+      "price": 12000
+    },
+    {
+      "id": 11,
+      "name": "new",
+      "price": 12000
+    },
+    {
+      "id": 12,
+      "name": "new2",
+      "price": 17000
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "abdo",
+      "salary": 5000
+    }
+  ]
+}
